@@ -5,3 +5,68 @@ body {
 }
 
 /* Inserisci qui di seguito il css necessario per completare gli esercizi */
+
+#uno {
+    color: red;
+}
+
+#due {
+    color: green;
+    font-size: 20px;
+}
+
+#tre {
+    color: blue;
+    font-weight: bolder;
+}
+
+#quattro {
+    color: orange;
+    font-family: cursive;
+}
+
+#cinque {
+    background-color: green;
+    color: white;
+    border: 0cap;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#sei {
+    background-color: red;
+    color: white;
+    border: 2px solid black;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+ #sette {
+    background-color: pink;
+    height: 30vh;
+ }
+
+ #otto {
+    background-color: lightblue;
+    height: 30vh;
+    width: 50%;
+ }
+
+ #nove:hover {
+    background-color: green;
+    cursor: pointer;
+ }
+ 
+ #dieci:hover {
+    color: blue ;
+    cursor: pointer;
+ }
+
+ #undici:hover {
+    background-color: red;
+    color: white;
+    cursor: pointer;
+ }
